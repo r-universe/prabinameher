@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "corrDNA"]
+	path = corrDNA
+	url = https://github.com/cran/corrDNA
+	shallow = true
+	registered = true
+[submodule "EncDNA"]
+	path = EncDNA
+	url = https://github.com/cran/EncDNA
+	shallow = true
+	registered = true
+[submodule "PredCRG"]
+	path = PredCRG
+	url = https://github.com/cran/PredCRG
+	shallow = true
+	registered = true
