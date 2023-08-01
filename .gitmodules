@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "corrDNA"]
-	path = corrDNA
-	url = https://github.com/cran/corrDNA
 [submodule "EncDNA"]
 	path = EncDNA
 	url = https://github.com/cran/EncDNA
 [submodule "PredCRG"]
 	path = PredCRG
 	url = https://github.com/cran/PredCRG
+[submodule "corrDNA"]
+	path = corrDNA
+	url = https://github.com/cran/corrDNA
